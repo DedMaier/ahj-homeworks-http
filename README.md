@@ -3,4 +3,4 @@
 
 ![CI](https://github.com/DedMaier/ahj-homeworks-http/actions/workflows/ci.yml/badge.svg)
 
-### Ссылкка на [github-pages](https://dedmaier.github.io/ahj-homeworks-http/)
+### Ссылка на [github-pages](https://dedmaier.github.io/ahj-homeworks-http/)
